@@ -11,4 +11,4 @@ Please visit the official website of the **IAQ4EDU** research project for detail
 
 Due to the size limitation of the uploaded file on Github, the software can be downloaded from: https://tinyurl.com/NVOGT
 
-Citation: Miao, S.*, Gangolells, M., & Tejedor, B. 2025. A natural ventilation operation guide tool for school teachers. DOI forthcoming. 
+Citation: Miao, S.*, Gangolells, M., Tejedor, B, & Casals, M. 2025. NVOG - Operational guide software for maintaining good indoor air quality and thermal comfort with natural ventilation in educational buildings, registered by SafeCreative Legaltech with the reference number 2502200917662.
